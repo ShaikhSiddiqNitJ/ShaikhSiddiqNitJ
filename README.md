@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shaikh Siddiq</h1>
-<h3 align="center">Currently working at Freecharge as an SDE1(Frontend Developer) 1.10YOE || NIT JALANDHAR (MTech CSE) .</h3>
+<h3 align="center">Currently working at Freecharge as an SDE1(Frontend Developer) 2YOE || NIT JALANDHAR (MTech CSE) .</h3>
 
 - Summary: Dynamic and results-driven Software Development Engineer with hands-on experience at Freecharge Payment Technologies Pvt. Ltd. (July 2023 – Present) and Samsung SDS (March 2023-  June 2023). Passionate about optimizing user experiences, improving performance, and streamlining development processes. At Freecharge, I led the migration of key modules, improved UI/UX performance, and automated deployment processes, boosting efficiency and reducing errors. I also successfully enhanced application load times and user engagement, demonstrating my ability to work cross-functionally with talented teams in the SDLC.
 
